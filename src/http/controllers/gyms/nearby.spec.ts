@@ -50,7 +50,7 @@ describe('Nearby Gyms (e2e)', () => {
     expect(response.body.gyms).toHaveLength(1)
     expect(response.body.gyms).toEqual([
       expect.objectContaining({
-        title: 'JavaScrit Gym',
+        title: 'JavaScript Gym',
       }),
     ])
   })
