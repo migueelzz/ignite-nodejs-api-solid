@@ -7,8 +7,9 @@ GymPass Style app.
 - Node.js
 - TypeScript
 - Fastify
-- Vitest
 - Prisma (PostgreSQL)
+- Vitest
+- Zod
 
 ### RFs (Requisitos funcionais)
 
