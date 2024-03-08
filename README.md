@@ -8,7 +8,12 @@ GymPass Style app.
 - SOLID
   - Dependency Inversion Principle
 - TDD
+- Test Unit and Test E2E
 - InMemory Database
+- CI/CD (GitHub Actions)
+- JWT
+- Refresh Token & RBCA
+
 
 ### stack
 
