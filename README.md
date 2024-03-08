@@ -2,6 +2,8 @@
 
 GymPass Style app.
 
+This is a study project on the following topics:
+
 - Design Patterns
   - Factory Pattern
   - Repository Pattern
