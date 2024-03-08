@@ -2,6 +2,14 @@
 
 GymPass Style app.
 
+- Design Patterns
+  - Factory Pattern
+  - Repository Pattern
+- SOLID
+  - Dependency Inversion Principle
+- TDD
+- InMemory Database
+
 ### stack
 
 - Node.js
